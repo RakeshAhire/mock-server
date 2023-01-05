@@ -16,5 +16,39 @@
   ],
   "mock-10":[
     
+  ],
+  "cars": [
+    {
+      "id": 1,
+      "image":"https://cars.tatamotors.com/images/altroz/gallery/thumbnail/21.jpg",
+      "brand": "Tata",
+      "year": 2019,
+			"type":"Manual",
+      "kms": 10000,
+      "Description": "Tata Altroz with all original documents",
+      "Price": 500000
+    },
+    {
+      "id": 2,
+      "image":"https://cdni.autocarindia.com/Utils/ImageResizer.ashx?n=https://cdni.autocarindia.com/Galleries/20210707010620_Nexon_Dark_.jpg",
+      "brand": "Tata",
+			"type":"AMT",
+      "year": 2017,
+      "kms": 8000,
+      "Description": "Tata Nexon with all original documents",
+      "Price": 800000
+    }
+  ],
+"wishlisted_cars": [
+    {
+      "id": 1,
+      "image":"https://cars.tatamotors.com/images/altroz/gallery/thumbnail/21.jpg",
+      "brand": "Tata",
+      "year": 2019,
+			"type":"Manual",
+      "kms": 10000,
+      "Description": "Tata Altroz with all original documents",
+      "Price": 500000
+    }
   ]
 }
